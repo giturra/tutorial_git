@@ -1,7 +1,7 @@
 print("hola seba!")
 cond = True
 
-if cond:
-  print("como estas?")
+if cond == 1:
+  print("blblblbla")
 else:
-  print("adios")
+  print("uwu")
